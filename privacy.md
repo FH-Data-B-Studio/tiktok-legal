@@ -28,4 +28,6 @@ We **do not** sell, trade, or otherwise transfer your data to outside parties. D
 ## 5. Data Retention
 Data is retained only for as long as necessary to provide historical analysis and reporting services. We implement security measures to maintain the safety of your personal information when we access your data.
 
-## 6. User
+## 6. Contact Us  
+If you have questions about this policy, please contact us at: 
+Email: fh@ogrupoberlim.com.br
