@@ -1,5 +1,3 @@
-# B Studio Analytics - Legal Documents
-
 Welcome to the legal hub for the B Studio Analytics integration.
 
 Please find our legal documentation below:
