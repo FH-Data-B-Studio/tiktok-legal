@@ -24,5 +24,5 @@ You may disconnect your TikTok account from our service at any time by revoking 
 The service is provided "as is" and "as available" without any warranties of any kind, including that the service will operate error-free or that the service, its servers, or the content are free of computer viruses or similar contamination or destructive features. We make no warranties regarding the continuous availability of the TikTok API.
 
 ## 8. Contact Information
-For any questions regarding these Terms of Service, please contact us at:
-**Email:** contato@fhdata.com.br
+For any questions regarding these Terms of Service, please contact us at:  
+**Email:** fh@ogrupoberlim.com.br
